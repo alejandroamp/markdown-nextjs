@@ -1,16 +1,9 @@
-html,
-body {
-  padding: 0;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
-}
+/* :root {
+  --fuente-principal: "Outfit", sans-serif;
+  --darkAccent: #224b4b;
+  --lightAccent: #2cda9d;
+  --backgroundBase: #619e9e;
 
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-* {
-  box-sizing: border-box;
-}
+  --shadow: 1px 1px 10px 2px darken($backgroundBase, 20%);
+  --default-border: 1px solid darken($backgroundBase, 35%);
+} */
